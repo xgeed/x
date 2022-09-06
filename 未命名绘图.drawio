@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T02:19:26.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.8" etag="44GgUtgL7nlTzUCWpNZ1" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-06T02:25:58.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="2D3COlzvfPafOjbfGmxH" version="20.2.8" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="981" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="Ygqn9ICY9HK4v7pCoJ1D-0" value="评价中心" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="130" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Ygqn9ICY9HK4v7pCoJ1D-1" value="Vertical Container" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="130" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Ygqn9ICY9HK4v7pCoJ1D-3" value="各委办局业务系统" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="130" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Ygqn9ICY9HK4v7pCoJ1D-4" value="交通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ygqn9ICY9HK4v7pCoJ1D-3">
+          <mxGeometry x="40" y="40" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ygqn9ICY9HK4v7pCoJ1D-7" value="城乡智治" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ygqn9ICY9HK4v7pCoJ1D-3">
+          <mxGeometry x="40" y="70" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ygqn9ICY9HK4v7pCoJ1D-8" value="市场监督" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ygqn9ICY9HK4v7pCoJ1D-3">
+          <mxGeometry x="40" y="100" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ygqn9ICY9HK4v7pCoJ1D-9" value="公安" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ygqn9ICY9HK4v7pCoJ1D-3">
+          <mxGeometry x="40" y="130" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ygqn9ICY9HK4v7pCoJ1D-10" value="农业农村" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ygqn9ICY9HK4v7pCoJ1D-3">
+          <mxGeometry x="40" y="160" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ygqn9ICY9HK4v7pCoJ1D-12" value="水利" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ygqn9ICY9HK4v7pCoJ1D-3">
+          <mxGeometry x="40" y="190" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ygqn9ICY9HK4v7pCoJ1D-13" value="消防" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ygqn9ICY9HK4v7pCoJ1D-3">
+          <mxGeometry x="40" y="220" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ygqn9ICY9HK4v7pCoJ1D-14" value="........" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="Ygqn9ICY9HK4v7pCoJ1D-3">
+          <mxGeometry x="40" y="250" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
